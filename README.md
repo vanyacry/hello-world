@@ -1,2 +1,2 @@
 # hello-world
-My Teacher Say to me do it
+My Teacher Told me to do it
